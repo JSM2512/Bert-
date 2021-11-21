@@ -1,1 +1,1 @@
-# Movie sentimentr analysis using BERT
+# Movie sentiment analysis using BERT
